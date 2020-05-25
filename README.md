@@ -1,0 +1,2 @@
+# Shopper-PaymentService
+Django service
